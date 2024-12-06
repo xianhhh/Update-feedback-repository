@@ -14,11 +14,11 @@
 
 - [ ] 完善scaffold
 
-- [ ] 对刀自动投掷物控距
+- [x] 对刀自动投掷物控距
 
 - [ ] 钻石esp
 
-- [ ] 空灵esp
+- [x] 空灵esp
 
 - [x] 杀戮添加teams 普通teams无效
 
@@ -32,6 +32,6 @@
 
 - [ ] AutoClicker BreakBlock单独分支出一个小功能 （BooleanSetting？）
 
-- [ ] AutoClicker 物品白名单
+- [x] AutoClicker 物品白名单
 
 - [ ] 添加上静默搭路
